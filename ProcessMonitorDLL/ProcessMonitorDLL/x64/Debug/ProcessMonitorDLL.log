@@ -1,0 +1,57 @@
+﻿  ProcessMonitor.cpp
+C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.cpp(84,6): warning C4273: PM_Initialize: несовместимое связывание dll
+  (компиляция исходного файла "/ProcessMonitor.cpp")
+      C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.h(46,29):
+      см. предыдущее определение "PM_Initialize"
+  
+C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.cpp(144,6): warning C4273: PM_GetProcesses: несовместимое связывание dll
+  (компиляция исходного файла "/ProcessMonitor.cpp")
+      C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.h(47,29):
+      см. предыдущее определение "PM_GetProcesses"
+  
+C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.cpp(248,6): warning C4273: PM_SetProcessPriority: несовместимое связывание dll
+  (компиляция исходного файла "/ProcessMonitor.cpp")
+      C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.h(50,29):
+      см. предыдущее определение "PM_SetProcessPriority"
+  
+C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.cpp(264,6): warning C4273: PM_GetThreads: несовместимое связывание dll
+  (компиляция исходного файла "/ProcessMonitor.cpp")
+      C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.h(51,29):
+      см. предыдущее определение "PM_GetThreads"
+  
+C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.cpp(325,6): warning C4273: PM_TerminateProcess: несовместимое связывание dll
+  (компиляция исходного файла "/ProcessMonitor.cpp")
+      C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.h(48,29):
+      см. предыдущее определение "PM_TerminateProcess"
+  
+C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.cpp(341,6): warning C4273: PM_CreateProcess: несовместимое связывание dll
+  (компиляция исходного файла "/ProcessMonitor.cpp")
+      C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.h(49,29):
+      см. предыдущее определение "PM_CreateProcess"
+  
+C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.cpp(369,6): warning C4273: PM_GetLastError: несовместимое связывание dll
+  (компиляция исходного файла "/ProcessMonitor.cpp")
+      C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.h(52,29):
+      см. предыдущее определение "PM_GetLastError"
+  
+C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.cpp(379,6): warning C4273: PM_Cleanup: несовместимое связывание dll
+  (компиляция исходного файла "/ProcessMonitor.cpp")
+      C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.h(53,29):
+      см. предыдущее определение "PM_Cleanup"
+  
+C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.cpp(404,6): warning C4273: PM_IsAdmin: несовместимое связывание dll
+  (компиляция исходного файла "/ProcessMonitor.cpp")
+      C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.h(56,29):
+      см. предыдущее определение "PM_IsAdmin"
+  
+C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.cpp(427,6): warning C4273: PM_RequestAdminRights: несовместимое связывание dll
+  (компиляция исходного файла "/ProcessMonitor.cpp")
+      C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\ProcessMonitorDLL\ProcessMonitor.h(59,29):
+      см. предыдущее определение "PM_RequestAdminRights"
+  
+  LINK : не найден или не выполнена сборка C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\x64\Debug\ProcessMonitorDLL.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\x64\Debug\ProcessMonitorDLL.lib и объект C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\x64\Debug\ProcessMonitorDLL.exp
+LINK : warning LNK4217: Символ "PM_Cleanup", определенный в "ProcessMonitor.obj", импортирован "dllmain.obj" в функции "DllMain".
+  ProcessMonitorDLL.vcxproj -> C:\Users\studentColl\Desktop\ВСЕ\TaskManager(2)\TaskManager\ProcessMonitorDLL\x64\Debug\ProcessMonitorDLL.dll
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.

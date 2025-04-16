@@ -1,0 +1,118 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\ProcessMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|solutionrelative:ProcessMonitorDLL\\ProcessMonitor.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\ProcessMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|solutionrelative:ProcessMonitorDLL\\ProcessMonitor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|solutionrelative:ProcessMonitorDLL\\pch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|solutionrelative:ProcessMonitorDLL\\pch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|solutionrelative:ProcessMonitorDLL\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6FA5B210-1945-4941-8D7D-D356EFAD4DF7}|ProcessMonitorDLL\\ProcessMonitorDLL.vcxproj|solutionrelative:ProcessMonitorDLL\\framework.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 262,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "framework.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\framework.h",
+              "RelativeDocumentMoniker": "ProcessMonitorDLL\\framework.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\framework.h",
+              "RelativeToolTip": "ProcessMonitorDLL\\framework.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-27T09:10:22.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "pch.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\pch.h",
+              "RelativeDocumentMoniker": "ProcessMonitorDLL\\pch.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\pch.h",
+              "RelativeToolTip": "ProcessMonitorDLL\\pch.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-27T08:43:53.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "pch.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\pch.cpp",
+              "RelativeDocumentMoniker": "ProcessMonitorDLL\\pch.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\pch.cpp",
+              "RelativeToolTip": "ProcessMonitorDLL\\pch.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T08:43:48.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\dllmain.cpp",
+              "RelativeDocumentMoniker": "ProcessMonitorDLL\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\dllmain.cpp",
+              "RelativeToolTip": "ProcessMonitorDLL\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-27T08:43:40.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProcessMonitor.cpp",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\ProcessMonitor.cpp",
+              "RelativeDocumentMoniker": "ProcessMonitorDLL\\ProcessMonitor.cpp",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\ProcessMonitor.cpp",
+              "RelativeToolTip": "ProcessMonitorDLL\\ProcessMonitor.cpp",
+              "ViewState": "AgIAAHcBAAAAAAAAAAASwJMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-17T09:35:25.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProcessMonitor.h",
+              "DocumentMoniker": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\ProcessMonitor.h",
+              "RelativeDocumentMoniker": "ProcessMonitorDLL\\ProcessMonitor.h",
+              "ToolTip": "C:\\Users\\studentColl\\Desktop\\\u0412\u0421\u0415\\TaskManager(2)\\TaskManager\\ProcessMonitorDLL\\ProcessMonitorDLL\\ProcessMonitor.h",
+              "RelativeToolTip": "ProcessMonitorDLL\\ProcessMonitor.h",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-03-17T09:33:56.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
